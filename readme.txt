@@ -1,3 +1,3 @@
 Name: Amna Ghyas
-Intro: This text is from FEATURE-CONFLICT branch.
+Intro: This text is from the MAIN branch.
 
