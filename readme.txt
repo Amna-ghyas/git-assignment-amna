@@ -1,3 +1,5 @@
 Name: Amna Ghyas
-Intro: This text is from FEATURE-CONFLICT branch.
+Intro: This line is intentionally conflicting.
+
+
 
